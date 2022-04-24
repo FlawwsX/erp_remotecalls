@@ -7,9 +7,9 @@ Below you can find important information on how to effectively use this remote c
 
 ## What are remote calls?
 
-Similar to callbacks, remote calls allow you to communicate information between the client->server and server->client. An example being the client can request their bank amount from the server using a simple remote call. The code here is pretty simple and doesn't require a crazy amount of intelligence to use. We make use of FiveM event handlers to "register" remote calls and then just execute an export, simple!
+Similar to callbacks, remote calls allow you to communicate information between the client->server and server->client. An example is the client can request their bank amount from the server using a quick remote call. This doesn't require a crazy amount of intelligence to use. We make use of FiveM event handlers to "register" remote calls and then just execute an export, simple!
 
-I have been using this on the live server for EchoRP and it has been working very well. It's accurate and fast, nothing more you'd really want from something as simple as this. I've tried many remotecall/callback resources but they're all either broken or complex to use. If you run into any issues, make an issue and I shall assist. Likewise, with changes/improvements, make a pull request. 
+I have been using this on the live server for EchoRP and it has been working very well. It's accurate and fast, nothing more you'd really want from something as simple as this. I've tried many remote call/callback resources but they're all either broken or complex to use. If you run into any issues, make an issue and I shall assist. Likewise, with changes/improvements, make a pull request. 
 
 ## Dependencies
 
